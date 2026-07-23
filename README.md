@@ -14,5 +14,4 @@ A C-based application designed to calculate student mark averages, classify acad
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash git clone https://github.com/yasiramar351-droid/Students-Grade-Management-System.git
-     git clone https://github.com/YOUR_USERNAME/Students-Grade-Management-System.git(https://github.com/YOUR_USERNAME/Students-Grade-Management-System.git)
-   
+     git clone https://github.com/yasiramar351-droid/Students-Grade-Management-System.githttps://github.com/yasiramar351-droid/Students-Grade-Management-System.git
